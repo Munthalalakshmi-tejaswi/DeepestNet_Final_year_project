@@ -148,7 +148,7 @@ Crop-Pest-Detection
 
 ---
 
-### Munthala Lakshmi Tejaswi  
+Munthala Lakshmi Tejaswi  
 UG Scholar, Dept. of CSE  
 Mohan Babu University, Tirupati  
 📧 mltejaswi1@gmail.com  
