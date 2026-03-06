@@ -138,36 +138,6 @@ Crop-Pest-Detection
 
 ---
 
-## 👨‍🏫 Authors
-
-### Dr. D. Ganesh  
-Associate Professor, Dept. of CSE  
-School of Computing  
-Mohan Babu University, Tirupati, Andhra Pradesh, India  
-📧 dgani05@gmail.com  
-
-### Dr. M. Sunil Kumar  
-Professor, Dept. of CSE  
-Mohan Babu University  
-📧 sunilmalchi1@gmail.com  
-
-### Munthala Lakshmi Tejaswi  
-UG Scholar, Dept. of CSE  
-Mohan Babu University, Tirupati  
-📧 mltejaswi1@gmail.com  
-
-### Pidugu Vanaja  
-UG Scholar, Mohan Babu University  
-📧 vanajapidugu031@gmail.com  
-
-### Rayachoti Bharath Kumar  
-UG Scholar, Mohan Babu University  
-📧 bharath170204@gmail.com  
-
-### Sharabu Ajith Kumar  
-UG Scholar, Mohan Babu University  
-📧 sharabuajithkumar7@gmail.com  
-
 ---
 
 ## 📚 References
@@ -178,6 +148,11 @@ UG Scholar, Mohan Babu University
 
 ---
 
+### Munthala Lakshmi Tejaswi  
+UG Scholar, Dept. of CSE  
+Mohan Babu University, Tirupati  
+📧 mltejaswi1@gmail.com  
+---
 ## ⭐ If you like this project
 
 Please consider **starring ⭐ the repository** to support the work.
